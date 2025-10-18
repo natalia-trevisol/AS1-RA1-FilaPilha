@@ -1,12 +1,12 @@
 # Sistema de Atendimento — Fila e Pilha em Java
 
 ## Identificação
-**Aluna:** Natália Moritani Trevisol  
-**Disciplina:** Resolução de Problemas Estruturados em Computação
-**Turma:** B - manhã 
-**Curso:** Ciência da Computação
-**Universidade:** Pontifícia Universidade Católica do Paraná (PUCPR)
-**Professor:** Andrey Cabral Meira
+- **Aluna:** Natália Moritani Trevisol  
+- **Disciplina:** Resolução de Problemas Estruturados em Computação
+- **Turma:** B - manhã 
+- **Curso:** Ciência da Computação
+- **Universidade:** Pontifícia Universidade Católica do Paraná (PUCPR)
+- **Professor:** Andrey Cabral Meira
 
 ---
 
