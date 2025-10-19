@@ -9,17 +9,17 @@ public class Main {
 
         // Dados simulados
         Elemento[] filaAtendimento = new Elemento[] {
-                new Elemento("CLI001", "Maria Silva", "Dúvida sobre produto", true),
-                new Elemento("CLI002", "João Souza", "Reclamação de serviço", true),
+                new Elemento("CLI001", "Mariana Silva", "Dúvida sobre produto", true),
+                new Elemento("CLI002", "João Pedro Souza", "Reclamação de serviço", true),
                 new Elemento("CLI003", "Ana Costa", "Solicitação de reembolso", true),
-                new Elemento("CLI004", "Pedro Alves", "Informações de entrega", true),
-                new Elemento("CLI005", "Carla Dias", "Agendamento de visita", true)
+                new Elemento("CLI004", "Pedro Henrique Alves", "Informações de entrega", true),
+                new Elemento("CLI005", "Natalia Calegari", "Agendamento de visita", true)
         };
 
         Elemento[] historico = new Elemento[] {
-                new Elemento("REQ001", "Instalação de software", "2024-08-20 10:30"),
-                new Elemento("REQ002", "Manutenção preventiva", "2024-08-20 11:00"),
-                new Elemento("REQ003", "Atualização de sistema", "2024-08-20 11:30")
+                new Elemento("REQ001", "Instalação de software", "2025-08-20 10:30"),
+                new Elemento("REQ002", "Manutenção preventiva", "2025-09-20 11:00"),
+                new Elemento("REQ003", "Atualização de sistema", "2025-10-20 11:30")
         };
 
         // Preenche estruturas com for
