@@ -1,4 +1,4 @@
-# Sistema de Atendimento — Fila e Pilha em Java
+# Sistema de Gerenciamento de Atendimento ao Cliente — Fila e Pilha em Java
 
 ## Identificação
 - **Aluna:** Natália Moritani Trevisol  
