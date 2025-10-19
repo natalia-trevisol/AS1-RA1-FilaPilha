@@ -66,9 +66,9 @@ Permite criar listas encadeadas para a fila e a pilha, de modo que não há limi
 ---
 
 ### Elemento (`Elemento.java`)
-Classe que representa tanto:
-- Um **cliente na fila de atendimento**, quanto
-- Uma **solicitação no histórico**.
+Classe que representa:
+- Um **cliente na fila de atendimento**, com os atributos número de identificação, nome e motivo do atendimento.
+- Uma **solicitação no histórico**, com os atributos ID da solicitação, descrição e data e hora.
 
 Contém diferentes construtores e um método `toString()` sobrescrito para formatar automaticamente a saída no console conforme o tipo do elemento (cliente ou solicitação).
 
@@ -111,6 +111,7 @@ Ao executar o programa, o usuário tem acesso ao seguinte menu:
 - **Opção 6:** Remove a solicitação mais recente (LIFO).  
 - **Opção 0:** Encerra o programa.
 
+Como o menu roda em loop, é possível verificar a qualquer momento a ordem de atendimento e o histórico de solicitações, bem como realizar operações de remoção e inserção.
 ---
 
 ## Instruções para Executar o Projeto
