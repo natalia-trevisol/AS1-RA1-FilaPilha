@@ -123,19 +123,46 @@ Ao executar o programa, o usuário tem acesso ao seguinte menu:
 
 ### Execução via terminal
 
-1. **Compilar os arquivos:**
+1. **Baixar os arquivos do diretório src/:**
+
+  - Main.java
+  - Fila.java
+  - Pilha.java
+  - Node.java 
+  - Elemento.java 
+
+2. **Compilar os arquivos:**
    ```bash
    javac *.java
    ```
 
-2.Executar o programa:
+3. **Executar o programa:**
   ```bash
-  java Main
+    java Main
   ```
 
-3. Interagir com o menu:
-Escolha as opções digitando o número correspondente e pressione Enter.
+4. **Interagir com o menu:**
 
+  Escolha as opções digitando o número correspondente e pressione Enter.
+
+### Execução via IDE
+
+1. **Instalar e abrir algum IDE que suporte Java:**
+
+  - Por exemplo: InteliJIdea, NetBeans.
+
+2. **Baixar os arquivos do diretório src/:**
+
+  - Main.java
+  - Fila.java
+  - Pilha.java
+  - Node.java 
+  - Elemento.java
+
+3. **Abrir o diretório src/ no IDE e executar o arquivo "Main.java":**
+
+  Geralmente existe um botão "RUN" para compilar e executar o programa.
+  
 --- 
 
 ## Explicação Geral do Código
